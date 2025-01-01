@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lipta/minecraftgl",
+  "command": "/usr/bin/cc  -I/home/lipta/minecraftgl/include -std=gnu17 -o CMakeFiles/program.dir/src/glad.c.o -c /home/lipta/minecraftgl/src/glad.c",
+  "file": "/home/lipta/minecraftgl/src/glad.c"
+},
+{
+  "directory": "/home/lipta/minecraftgl",
+  "command": "/usr/bin/cc  -I/home/lipta/minecraftgl/include -std=gnu17 -o CMakeFiles/program.dir/src/main.c.o -c /home/lipta/minecraftgl/src/main.c",
+  "file": "/home/lipta/minecraftgl/src/main.c"
+},
+{
+  "directory": "/home/lipta/minecraftgl",
+  "command": "/usr/bin/cc  -I/home/lipta/minecraftgl/include -std=gnu17 -o CMakeFiles/program.dir/src/shader.c.o -c /home/lipta/minecraftgl/src/shader.c",
+  "file": "/home/lipta/minecraftgl/src/shader.c"
+}
+]

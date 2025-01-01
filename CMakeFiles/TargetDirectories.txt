@@ -1,0 +1,3 @@
+/home/lipta/minecraftgl/CMakeFiles/program.dir
+/home/lipta/minecraftgl/CMakeFiles/edit_cache.dir
+/home/lipta/minecraftgl/CMakeFiles/rebuild_cache.dir
